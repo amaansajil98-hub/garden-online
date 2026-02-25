@@ -1,2 +1,2 @@
 # garden-online
-garden game
+garden online
